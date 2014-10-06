@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleGetInfoString</key>
+	<string>Nokia Nokia 111 v1.0, © </string>
+	<key>CFBundleIdentifier</key>
+	<string>com.nokia.111.phoneplugin.com.nokia.111</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Nokia Nokia 111</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>86</string>
+	<key>IPHPhoneConduitVersion</key>
+	<string>1004</string>
+	<key>IPHPhonePluginUID</key>
+	<string>D48428D7-B03A-412F-AB3C-CD0B6E2683BE</string>
+	<key>IPHPluginProviderName</key>
+	<string></string>
+	<key>IPHPluginSupportURL</key>
+	<string></string>
+	<key>IPHPublicPluginVersion</key>
+	<string>1.0</string>
+</dict>
+</plist>
